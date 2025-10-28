@@ -1,4 +1,4 @@
-# ArguGenCourt: Courtroom Argument Generation using Judicial Multi-agent Large Language Models (Under review CIKM 2025)
+# ArguGenCourt: Courtroom Argument Generation using Judicial Multi-agent Large Language Models (Under review ECIR 2026)
 In this paper, we consider solely legal cases from the ***U.S. Supreme Court*** and evaluate the performance of Large Language Models (LLMs) in generating courtroom arguments utilizing different approaches, including zero-shot, and few-shot within a multi-agent setup, called ***ArguGenCourt***.
 # 1. Workflow of ArguGenCourt:
 <img src= "https://github.com/user-attachments/assets/ea34062a-bd1b-4af8-86d4-afcda4b7a26b"> <br />
